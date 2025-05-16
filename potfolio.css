@@ -1,0 +1,45 @@
+h2{
+    color: brown;
+    font-size: large;
+    text-align: start;
+}
+h3{
+    padding:10px;
+    color: red;
+    font-size: small;
+}
+h3{
+    padding:10px;
+    color: pink;
+}
+h3{
+    color: red;
+    font-size: small;
+    border: radius 12px; ;
+}
+h3{
+    color:beige;
+    align-self: start;
+    font-family: initial;
+}
+h4{
+    padding: 15px;
+    color: brown;
+    font-style: initial;
+}
+h4{
+   color: blueviolet;
+   border-bottom: 2px;
+}
+h3{
+    padding: 5px;
+    color: white;
+}
+img{
+    clip-path: circle();
+}
+body{
+    background-color:black;
+}
+
+
