@@ -30,16 +30,21 @@ h4{
 h4{
    color: blueviolet;
    border-bottom: 2px;
+   margin:20px;
 }
 h3{
-    padding: 5px;
+    padding: 2px;
     color: white;
 }
 img{
-    clip-path: circle();
+    clip: unset;
+}
+div
+{
+ padding-right: 0ch;
 }
 body{
-    background-color:black;
+    background-color:lightpink;
 }
 
 
