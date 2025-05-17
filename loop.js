@@ -46,7 +46,6 @@ do{
         case 2:
             console.log("Monday")
             break;
-            continue;
         case 3:
             console.log("Tuesday")
             break;
@@ -65,3 +64,20 @@ do{
         default:
             console.log("Enter the valid number")
     }
+    var sum =()=>{
+    console.log(10+20)
+}
+sum()
+i=20
+var result=(i%2==0)?"even":"odd"
+console.log(result)
+sum=0;
+for(i=1;i<=20;i++)
+{
+    if(i%2==0){
+        console.log(`${i} is even`)
+    sum=sum+i;
+    }
+}
+console.log(`sum is ${sum}`)
+

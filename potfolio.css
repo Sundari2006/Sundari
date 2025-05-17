@@ -1,4 +1,5 @@
 h2{
+    border-top-left-radius: ;
     color: brown;
     font-size: large;
     text-align: start;
@@ -23,7 +24,6 @@ h3{
     font-family: initial;
 }
 h4{
-    padding: 15px;
     color: brown;
     font-style: initial;
 }
@@ -36,12 +36,14 @@ h3{
     padding: 2px;
     color: white;
 }
-img{
-    clip: unset;
-}
+
 div
 {
  padding-right: 0ch;
+ display: inline-block;
+ display: flex;
+ justify-content: end;
+ flex-direction: row;
 }
 body{
     background-color:lightpink;
